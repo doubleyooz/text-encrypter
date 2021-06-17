@@ -1,0 +1,9 @@
+#folders
+bin/
+.settings/
+.vscode/
+
+#files
+.project
+.classpath
+.factorypath
